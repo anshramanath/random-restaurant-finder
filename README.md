@@ -2,6 +2,8 @@
 
 A web app that helps you discover a random restaurant near you based on your location and cuisine preference. Built with **Next.js**, **TypeScript**, and **Material UI**, using **OpenStreetMap APIs** for data.
 
+This project also served as a hands-on introduction to full-stack app deployment using **Vercel** for continuous integration and hosting.
+
 [🔗 Live Site](https://random-restaurant-finder-six.vercel.app)
 
 ---
